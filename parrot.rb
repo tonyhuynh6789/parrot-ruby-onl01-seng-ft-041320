@@ -3,5 +3,4 @@
 
 def parrot(input)
   puts input
-  
 end 
